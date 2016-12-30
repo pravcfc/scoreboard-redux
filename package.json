@@ -1,7 +1,7 @@
 {
-  "name": "react-redux-course",
-  "version": "1.0.0",
-  "description": "React-Redux course for Treehouse",
+  "name": "react-redux",
+  "version": "0.1.0",
+  "description": "React-Redux sample app scoreboard",
   "main": "src/index.js",
   "scripts": {
     "prestart": "npm run lint",
@@ -14,7 +14,7 @@
     "redux",
     "treehouse"
   ],
-  "author": "Beau Palmquist",
+  "author": "Praveen Selvaraj",
   "license": "MIT",
   "dependencies": {
     "react": "^15.3.2",
